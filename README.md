@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuvArora-coder aka Luv AnilKumar Arora
 - 👀 I’m interested in Web Development and Cyber Security
-- 🌱 I’m currently learning React js and working on lua script 
+- 🌱 I’m currently learning Adv. Web Dev and working on lua script 
 - 💞️ I’m looking to collaborate for project management and system security 
 - 📫 How to reach me - just a simple mail on luv.a@somaiya.edu
 
